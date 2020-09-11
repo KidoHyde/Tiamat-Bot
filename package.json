@@ -1,0 +1,13 @@
+{
+  "name": "Tiamat",
+  "version": "1.0.0",
+  "description": "Tiamat moderation bot",
+  "main": "bot.js",
+  "author": "Crash",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "distube": "^2.5.1",
+    "opusscript": "0.0.7"
+  }
+}
